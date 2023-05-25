@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rafaellincon2022
-- 👀 I’m interested in Python, SQL Language, HTML e CSS, PHP e JavaScript
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python, SQL Language, HTML e CSS, PHP and JavaScript
+- 🌱 I’m currently learning Python, HTML, CSS, PHP and JavaScript.
 - 💞️ I’m looking to collaborate on Entreprise
 - 📫 How to reach me @rafaellinconsc
 
